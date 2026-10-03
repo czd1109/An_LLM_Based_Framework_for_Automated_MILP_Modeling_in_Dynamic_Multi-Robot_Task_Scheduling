@@ -1,0 +1,56 @@
+{
+  "total": 100,
+  "cases_per_class": 10,
+  "classes": [
+    {
+      "id": "C1",
+      "name": "Robot Release Time",
+      "file": "C01_robot_release_time.json"
+    },
+    {
+      "id": "C2",
+      "name": "Task Completion Precedence",
+      "file": "C02_task_completion_precedence.json"
+    },
+    {
+      "id": "C3",
+      "name": "Due Date",
+      "file": "C03_due_date.json"
+    },
+    {
+      "id": "C4",
+      "name": "Task Release Time",
+      "file": "C04_task_release_time.json"
+    },
+    {
+      "id": "C5",
+      "name": "Subtask Start Time Window",
+      "file": "C05_subtask_start_time_window.json"
+    },
+    {
+      "id": "C6",
+      "name": "Task Delivery Time Window",
+      "file": "C06_task_delivery_time_window.json"
+    },
+    {
+      "id": "C7",
+      "name": "Minimum Time Lag",
+      "file": "C07_minimum_time_lag.json"
+    },
+    {
+      "id": "C8",
+      "name": "Synchronous Task Completion",
+      "file": "C08_synchronous_task_completion.json"
+    },
+    {
+      "id": "C9",
+      "name": "Inter-task Subtask Precedence",
+      "file": "C09_inter_task_subtask_precedence.json"
+    },
+    {
+      "id": "C10",
+      "name": "Global Task Precedence",
+      "file": "C10_global_task_precedence.json"
+    }
+  ]
+}
